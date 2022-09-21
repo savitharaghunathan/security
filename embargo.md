@@ -57,4 +57,4 @@ when it will be available or links to where the patch will be available.*
 * issue public patches before the disclosure date
 
 This list will be notified immediately if the disclosure date is at risk or
-changes. Questions should be directed to the [security contacts](https://github.com/konveyor/security/SECURITY_CONTACTS.md).
+changes. Questions should be directed to the [security contacts](https://github.com/konveyor/security/blob/main/SECURITY_CONTACTS.md).
