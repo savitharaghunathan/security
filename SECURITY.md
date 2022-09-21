@@ -32,9 +32,4 @@ Please use the below process to report a vulnerability to the project:
 ## Supported Versions
 
 Information regarding supported versions of this project can be found on
-**<!-- TODO: $LINK -->** located on the **<!-- TODO: $WEBSITE -->**  and in the below table:
-
-| Version | Supported |
-| --- | --- |
-| <!-- TODO: x.xx.x --> | :white_check_mark: |
-| <=<!-- TODO: x.xx.x --> | :x: |
+**<!-- TODO: $LINK -->** located on the **<!-- TODO: $WEBSITE -->**  

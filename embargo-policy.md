@@ -1,6 +1,6 @@
 # Embargo Policy
 
-This policy forbids members of this project's security contacts <!-- TODO: $LINK --> and others
+This policy forbids members of this project's [security contacts](https://github.com/konveyor/security/SECURITY_CONTACTS.md) and others
 defined below from sharing information outside of the security contacts and this
 listing without need-to-know and advance notice.
 
