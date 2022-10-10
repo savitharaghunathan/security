@@ -1,4 +1,4 @@
-# Security
+# Konveyor Security
 
 Konveyor Security Vulnerability and disclosure process.
 
