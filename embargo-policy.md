@@ -1,6 +1,6 @@
 # Embargo Policy
 
-This policy forbids members of this project's [security contacts](https://github.com/konveyor/security/SECURITY_CONTACTS.md) and others
+This policy forbids members of this project's [security contacts](https://github.com/konveyor/security/blob/main/SECURITY_CONTACTS.md) and others
 defined below from sharing information outside of the security contacts and this
 listing without need-to-know and advance notice.
 
@@ -15,7 +15,7 @@ Except with the list's explicit approval. This holds true until the public
 disclosure date/time that was agreed upon by the list.
 
 If information is inadvertently shared beyond what is allowed by this policy,
-you are REQUIRED to inform the [security contacts](https://github.com/konveyor/security/SECURITY_CONTACTS.md) of exactly what
+you are REQUIRED to inform the [security contacts](https://github.com/konveyor/security/blob/main/SECURITY_CONTACTS.md) of exactly what
 information leaked and to whom. A retrospective will take place after the leak
 so we can assess how to not make this mistake in the future.
 

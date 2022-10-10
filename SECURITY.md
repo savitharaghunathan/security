@@ -31,5 +31,5 @@ Please use the below process to report a vulnerability to the project:
 
 ## Supported Versions
 
-Information regarding supported versions of this project can be found on
-**<!-- TODO: $LINK -->** located on the **<!-- TODO: $WEBSITE -->**  
+Information regarding supported versions of this project can be found on <todo:link>
+**<!-- TODO: $LINK -->** located on the <todo:link>**<!-- TODO: $WEBSITE -->**  
